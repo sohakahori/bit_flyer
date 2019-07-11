@@ -1,3 +1,17 @@
 require 'bit_flyer/version.rb'
+require 'bit_flyer/api/base'
+require 'bit_flyer/api/public_reader'
+require 'bit_flyer/api/private_reader'
+require 'bit_flyer/models/balance_history'
+require 'bit_flyer/models/market'
+require 'bit_flyer/models/chat'
+require 'bit_flyer/models/board'
+require 'bit_flyer/models/boards/bid'
+require 'bit_flyer/models/ticker'
+require 'bit_flyer/models/execution'
+require 'bit_flyer/models/board_state'
+require 'bit_flyer/models/board_states/data'
+require 'bit_flyer/models/health'
 
+require 'active_support/all'
 

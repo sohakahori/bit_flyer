@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "trade_date": "2019-06-12T23:43:05.723",
+    "product_code": "BTC_JPY",
+    "currency_code": "JPY",
+    "trade_type": "BUY",
+    "price": 1000,
+    "amount": -1,
+    "quantity": 0.001,
+    "commission": 0,
+    "balance": 17145,
+    "order_id": "IDT20190612-5254252-462454"
+  }
+]
