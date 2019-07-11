@@ -38,7 +38,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'activesupport', '>= 4.0.0'
   spec.add_dependency 'faraday'
-  spec.add_dependency 'pry-rails'
   spec.add_dependency 'pry-byebug'
   spec.add_dependency 'pry-doc'
 
